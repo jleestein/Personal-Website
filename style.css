@@ -1,0 +1,92 @@
+#banner {
+  background-image: url("https://i.imgur.com/e73hAVm.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+  overflow: scroll
+}
+
+#banner .content h1 {
+  position: relative;
+  border: 3px solid lightcoral;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#banner .content2 h4 {
+position: absolute;
+top: 8px;
+bottom: 16px;
+
+}
+
+h1 {
+  color: black;
+}
+
+h3 {
+  color: gray;
+}
+
+h1,
+h3 {
+  border: 3px solid white;
+  font-family: georgia;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+h4 {
+  font-family: georgia;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+h6 {
+  font-family: georgia;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+p {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#contact {
+color: lightcoral;
+font-family: georgia;
+position: relative;
+margin: 0 auto;
+
+}
+
+#title,
+#adventures {
+color: lightcoral;
+font-family: georgia;
+position: relative;
+margin: 0 auto;
+text-align: center;
+
+}
